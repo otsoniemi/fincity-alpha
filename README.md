@@ -1,4 +1,4 @@
-## Fincity ALPHA BUILD
+# Fincity ALPHA BUILD
 
 Created and Developed by: Otso Niemi
 
@@ -6,4 +6,4 @@ Created and Developed by: Otso Niemi
 
 [Github](https://github.com/otsoniemi)
 
-**Discord: otso#3869**
+Discord: otso#3869
