@@ -1,6 +1,4 @@
-# Fincity ALPHA BUILD
-
-Very early test build of Fincity
+Fincity ALPHA BUILD
 
 Created and Developed by: Otso Niemi
 
