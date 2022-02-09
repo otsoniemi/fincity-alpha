@@ -1,4 +1,4 @@
-##Fincity ALPHA BUILD
+## Fincity ALPHA BUILD
 
 Created and Developed by: Otso Niemi
 
